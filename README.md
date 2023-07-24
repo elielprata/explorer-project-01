@@ -13,4 +13,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - HTML
 - CSS
 
-É possivel acessar através [deste link](https://elielprata.github.io/explorer-challenge-02/)
+É possivel acessar através [deste link](https://elielprata.github.io/explorer-project-01/)
